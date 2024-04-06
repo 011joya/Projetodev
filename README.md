@@ -1,6 +1,9 @@
 ## Bem-vindo(a) ao perfil do Projeto Dev 😁
 
  <div>
+   <img height="180em" src="https://media.licdn.com/dms/image/C5603AQG9ciTPB1JjMg/profile-displayphoto-shrink_400_400/0/1516440950431?e=1717632000&v=beta&t=wZoQs8e2cyqPhDbzONxXsuPNUparKX4s65isa_G8YKE"/>
+</div>
+ <div>
    <a href="https://github.com/011joya">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=011joya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=011joya&layout=compact&langs_count=6&theme=dracula"/>
